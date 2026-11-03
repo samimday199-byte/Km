@@ -1,0 +1,6 @@
+{
+  "name": "Routine Widget Studio",
+  "description": "Pro dark-mode studio for designing liquid-glass and multi-stop gradient home-screen widgets that track your active daily routine blocks in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

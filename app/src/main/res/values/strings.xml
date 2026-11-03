@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Routine Widget Studio</string>
+    <string name="widget_2x1_name">Routine Compact (2×1)</string>
+    <string name="widget_4x2_name">Routine Studio (4×2)</string>
+    <string name="widget_4x4_name">Routine Large (4×4)</string>
+    <string name="widget_description">Live routine block tracker with custom liquid glass and multi-stop gradients.</string>
+    <string name="widget_preview_title">Deep Work</string>
+    <string name="widget_preview_time">10:00 AM - 12:00 PM</string>
+    <string name="widget_preview_duration">2h • 1h 24m left</string>
+    <string name="tab_preview">Preview</string>
+    <string name="tab_routine">Routine</string>
+    <string name="tab_background">Background</string>
+    <string name="tab_shape">Shape</string>
+    <string name="tab_glass">Glass</string>
+    <string name="tab_text">Text</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="add_block">Add Routine Block</string>
+    <string name="save_preset">Save Preset</string>
+    <string name="exact_alarm_Warning">Exact Alarm Permission</string>
+    <string name="battery_tip_title">Battery Optimization Tip</string>
+</resources>
